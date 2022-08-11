@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\bin\Debug\StajyerTakip.exe.config
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\bin\Debug\StajyerTakip.exe
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\bin\Debug\StajyerTakip.pdb
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.Form1.resources
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.Properties.Resources.resources
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.exe
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.pdb
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.Form2.resources
+C:\Users\hp\Desktop\StajyerTakip\StajyerTakip\obj\Debug\StajyerTakip.Form3.resources
